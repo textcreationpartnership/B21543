@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Quakers challeng, at two several weapons To the baptists, presbiters, papists and other professors.</title>
+            <author>Eccles, Solomon, 1618-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21543</idno>
+            <idno type="STC">Wing E129A</idno>
+            <idno type="EEBO-CITATION">99827279</idno>
+            <idno type="PROQUEST">99827279</idno>
+            <idno type="VID">206845</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B21543)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206845)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1846:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Quakers challeng, at two several weapons To the baptists, presbiters, papists and other professors.</title>
+                  <author>Eccles, Solomon, 1618-1683.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1668]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Solomon Eccles.</note>
+                  <note>Caption title.</note>
+                  <note>Suggested imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:206845:1"/>
+            <pb facs="tcp:206845:1" rendition="simple:additions"/>
+            <head>THE <hi>Q<g ref="char:V">Ʋ</g>AKERS CHALLENG,</hi> AT TWO SEVERAL WEAPONS. TO THE <hi>Baptiſts, Presbiters, Papiſts</hi> and other <hi>Pro<g ref="char:EOLhyphen"/>feſſors.</hi>
+            </head>
+            <head>The Quakers Challenge.</head>
+            <p>WHEREAS certain <hi>Baptiſt</hi> Teachers, whoſe work is to be lie the Innocent, and to fill the peoples Ears with falſe reports; as did <hi>Jere<g ref="char:EOLunhyphen"/>miah Ives, Matthew Caffin,</hi> and <hi>William Burnet</hi> behind my back at a diſpute at <hi>Chertſey</hi> in <hi>Surey,</hi> with our friend <hi>G. Whitehead,</hi> and finding my ſelf Innocent of the Ac<g ref="char:EOLhyphen"/>cuſation; and knowing that <hi>Jeremy Ives,</hi> and <hi>Mat. Caffin,</hi> to be known Enemies to the Lord, his Truth, and his People; and for theſe ſo doing, <hi>I do here offer my ſelf in Gods behalf, and Truths behalf, and in the behalf of the People ſcornfully call'd</hi> Quakers.</p>
+            <p>I do Challenge <hi>Matthew Caffin, Jeremy Ives,</hi> and <hi>William Burnet,</hi> or any of the Teachers amongſt the <hi>Baptiſts,</hi> or <hi>Inde<g ref="char:EOLhyphen"/>pendants,</hi> or <hi>Presbiters,</hi> or <hi>Papiſts,</hi> or <hi>Jeſuits high Prieſts, and low Prieſts,</hi> for theſe are all blind Guides, and their profeſſion is <hi>rot<g ref="char:EOLhyphen"/>ten,</hi> their Church is <hi>Babilon,</hi> their Faith is unſound, and their Doctrine is falſe for ever; and I will maintain it by theſe two Weapons, <hi>Viz.</hi>
+            </p>
+            <p>
+               <hi>To Faſt ſeven daies and ſeven nights and not to Eat nor to
+<pb n="2" facs="tcp:206845:2"/> Drink.</hi> And the next Weapon is; <hi>To Wake ſeven daies and ſeven nights, and not to Sleep till they be faithfully performed be<g ref="char:EOLhyphen"/>fore the Lord:</hi> And the God that anſwers by Fire ſhall be the true God; and he that the Lord ſhall carry through this fiery Tryal, ſhall be counted a Worſhiper of the true God, and ſhall give him the glory and honour, and acknowledg his Power, who alone is worthy, who is over all God bleſſed for ever.</p>
+            <p>But he that tyres by the way, ſhall be counted a member <hi>of a falſe Church, and a Heretick,</hi> whoſe God is his Belly, whoſe Glory is his Shame, whoſe End is Deſtruction.</p>
+            <p>
+               <hi>Come Papiſts with your Murthering Weapons:</hi> Will you main<g ref="char:EOLhyphen"/>tain that your Church is a true Church which is eſtabliſht by Blood. <hi>Anſwer</hi> the <hi>Quaker;</hi> Was not the Devil a Murtherer from the beginning? your God is your Belly; for you pretend to Faſt in Lent from <hi>Fleſh,</hi> and yet you Eat <hi>Fiſh;</hi> and is there not a fleſh of <hi>Fiſh,</hi> as well as of <hi>Birds,</hi> wherefore I teſtifie againſt you, <hi>that your Faith is unſound, and your Church and Doctrine is falſe for ever.</hi>
+            </p>
+            <p>
+               <hi>Come Proteſtants,</hi> Who are call'd by the name of <hi>Presbiters, Independants,</hi> and <hi>Baptiſts, Fifth-Monarchy, Seventh day Sab<g ref="char:EOLhyphen"/>bath-men,</hi> and <hi>Family of Love;</hi> the <hi>Quaker</hi> denies you all, and is come to try you; not by the <hi>tongue</hi> which is your <hi>glory, but by the belly,</hi> for that is your <hi>chief God;</hi> for of a truth, you all are
+<list>
+                  <item>Shut out of the Saints ſociety,</item>
+                  <item>And your book of the <hi>Practice of Piety.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Come <hi>Papiſts</hi> and <hi>Proteſtants, Gogg</hi> and <hi>Magog,</hi> will you be daunted by a <hi>Quaker?</hi> ſtand up <hi>Presbiter with your hippo<g ref="char:EOLhyphen"/>critical Faſtings,</hi> who faſt for ſtrife and debate, who for matter of Perſecution there is none exceeds; you had need to be rank<g ref="char:EOLhyphen"/>ed next the <hi>Papiſts;</hi> for who ſo cruel as you againſt <hi>the Truth, witneſs New England,</hi> who cruelly Whipt our Friends, and afterwards hanged two Men and a Woman, who feared God, and eſchewed Evil, and ſent many into the Wilderneſs after they had been ſorely Whipt in Froſt and Snow, and we know, that if you had the Power in your hands again, We ſhould feel your cruel <hi>Weapons,</hi> and <hi>Halters,</hi> and <hi>Gibbets:</hi> We know your hippocraſie of Old, towards God and his Truth. <hi>Come go with me theſe fourteen daies journey;</hi> and after this two times
+<pb facs="tcp:206845:2"/> ſeven is over, we will have three times ſeven more, I never knew <hi>the Quakers Conquered yet by all your cruel Weapons,</hi> there<g ref="char:EOLhyphen"/>fore if ever you conquer the <hi>Quakers</hi> it muſt be by Faſting and Watching.</p>
+            <p>
+               <hi>Come Thom. Vinſon</hi> who proffer'd the <hi>Quakers</hi> a Diſpute, but when they came, thou fell'ſt a Preaching and Praying among a rude Multitude, and preſently got away, <hi>and would not anſwer them;</hi> though a Servant of the Lord told thee, That thou didſt Preach the Doctrine of Devils: <hi>Come I have a mind to Challeng thee,</hi> and thou ſhalt ſee I will not ſlink away as thou didſt, but if thou doeſt not anſwer, if either <hi>Papiſts,</hi> or <hi>Proteſtants, Jeſu<g ref="char:EOLhyphen"/>its</hi> or <hi>Prieſts</hi> are willing to anſwer this Duel: Let them name their day and time; and for what God, and for what People; and I will anſwer you, or whom you can produce: yea, I will make you in the name of the Everlaſting God that made Hea<g ref="char:EOLhyphen"/>ven and Earth, the Seas and Fountains of Waters, and in the behalf of his People ſcornſully cal'd <hi>Quakers,</hi> who are in the Truth and none but they; whoſe Principle is, Chriſt the true Light, that doth enlighten every man that comes into the World.</p>
+            <p>Who is in us the hope of Glory, and they that walk accor<g ref="char:EOLhyphen"/>ding to this rule, are the people of God and none elſe; and their Principle is the true Principle and none elſe, and it ſhall live, and out live all; and grow, and out grow all; for he is King of Kings, and Lord of Lords, who only hath Immortali<g ref="char:EOLhyphen"/>ty dwelling in the Light which no man can approach unto, whom no man hath ſeen or can ſee, to him be glory Everlaſting, <hi>Amen. 1 Tim.</hi> 6. 13, 14.</p>
+            <p>Come <hi>Jeremy Ives</hi> thou falſe man, who did ſay, that that body, that hung upon the Tree, when the ſpirit was out of it, was but as an empty Trunk: Whereas thy Brethren <hi>Jo. Lukis</hi> and <hi>Robert Porter</hi> have affirmed before many witneſſes, that the Blood that followed the Sphere was the Blood of the New-Covenant; <hi>Did the Blood of the New-Covenant come out of an empty Trunk?</hi> Why doſt thou go about to overthrow the Faith of thy weak brethren; wherefore I Challeng thee, as <hi>Elias</hi> did the falſe Prophets, and thou <hi>John Brown Baptiſt Teacher,</hi> when thou waſt asked of <hi>G. W.</hi> what became of the Blood that
+<pb facs="tcp:206845:3"/> followed the Speere, thou repliedſt and ſaid, (it ſank into the Ground; <hi>But did the Blood of the New-Covenant ſink into the Ground?</hi> You Blaſphemers come and anſwer this Duel.</p>
+            <p>Stand up you ſleepy Profeſſors, and maintain your aſſertions; Come <hi>Jeremy,</hi> I muſt not paſs thee by, for I teſtifie, thy Faith is falſe, and ſo is thy Doctrine, and thy Profeſſion is rotten, and thy God is thy Belly, and thy Faith is the Faith of Devils that purifies not the heart: And was thy heart pure <hi>Jeremy, when thou tookſt an Oath in open Court;</hi> O baſe: And yet take the Holy Scriptures into thy mouth to hold Diſputes and Janglings, and ye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Scripture is againſt thee, and the Spirit that gave them forth, and the Saints in Light are againſt thee, and Jeſus Chriſt the King of Saints is againſt thee, who ſaid, <hi>Swear not at all:</hi> And his Apoſtle <hi>James</hi> is againſt thee; who ſaid, <hi>Above all things my Brethren Swear not at all, neither by Heaven, nor by Earth, nor by any other Oath.</hi> Mark that <hi>Jeremy.</hi>
+            </p>
+            <p>
+               <hi>Stand up old Thomas Lamb,</hi> of whoſe Church <hi>I was a Mem<g ref="char:EOLhyphen"/>ber;</hi> but why didſt thou take the Oath without any Mental re<g ref="char:EOLhyphen"/>ſervation. Come old <hi>Thomas,</hi> and young <hi>Thomas,</hi> and help your brethren <hi>Jer. Ives,</hi> and <hi>Mat. Caffin,</hi> and <hi>William Burnet;</hi> For the <hi>Quaker</hi> denies your Church, and is come to the true Church, which is the Pillar and Ground of Truth, and the true Faith that overcomes the World is known, and the Rock of Ages is known, and the Ancient of daies is come, and the Ta<g ref="char:EOLhyphen"/>bernacle of God is with Men again: Glory over all be unto our God, that ſits upon the Throne, and to the Lamb for ever<g ref="char:EOLhyphen"/>more <hi>Amen.</hi>
+            </p>
+            <p>Come <hi>Will. Burnet</hi> (Whats thy Faith good for) who ſaiſt in thy 15 <hi>page,</hi> That the Light that is in every man, is neither God, Chriſt, nor Spirit; and then thou ſaidſt thou ſhalt indeaver to ſhew, what that Light is in every Man, and thou goeſt to prove it, to be Conſcience and cites 2 <hi>Rom.</hi> 4. 5. But doth not the thoughts in the mean while accuſe or excuſe; and what is that which ſhews unto Man his thoughts, is it not the Lord God of Hoſts, <hi>Amos 4. 15. Iſa. 42. 6. 7. Iſa.</hi> 49. 6, 8. Thou falſs Meſſenger, for the true Prophets and Meſſengers of Truth Con<g ref="char:EOLhyphen"/>demns thee, <hi>Jo.</hi> 1. 1, 15. And that of God in thy Conſcience ſhall one day awaken in thee and Condemn thee; and then thou
+<pb n="5" facs="tcp:206845:3"/> ſhalt read me, who does bear witneſs to that, which is, the Light of Chriſt in thy Conſcience, <hi>which was before Conſcience was:</hi> Yea, is not all that made manifeſt, made manifeſt by the Light, <hi>Eph.</hi> 5. 13. O People hear him no more; for he that denieth the Father and the Son; yea, he hath denied God, and the Fa<g ref="char:EOLhyphen"/>ther and Chriſt: (Firſt, he hath denied God) read, for God who Commanded the Light to ſhine out of darkneſs, hath ſhin<g ref="char:EOLhyphen"/>ed in our Hearts to give the Light of the knowledg of God in the face of Jeſus Chriſt, <hi>Cor.</hi> 2. 4, 6. Again, <hi>John</hi> the Divine will tell your Meſſenger <hi>W. Bur.</hi> That he is a falſe Meſſenger, for, this is the meſſage that we have received of <hi>John,</hi> and deliver unto you, That God is Light, and in him is no darkneſs at all; <hi>Jo.</hi> 1. 1. Whoſe Meſſenger is <hi>W. B?</hi> ſtop thy mouth for ſhame; and thou haſt denied the Father: <hi>For every good and perfect gift cometh from the Father of Lights, Jerem.</hi> 4. 17. And he hath denied the Lord Jeſus Chriſt, as all that paſs by may read; <hi>John</hi> 8. 12. 9, 5.</p>
+            <p>Therefore I Challenge thee for a falſe Profit, and an accuſer of the Brethren. Come <hi>Baptiſts, Independants,</hi> and <hi>Presbiters,</hi> and <hi>Papiſts,</hi> you talk of <hi>Moſes, Elias,</hi> and <hi>Chriſt,</hi> who faſted forty Daies, and forty Nights, and the Apoſtle of Chriſt did ex<g ref="char:EOLhyphen"/>erciſe himſelf much in Faſting and Watching 2 <hi>Cor.</hi> 6, 5. Let none of you ſay, that it is a tempting of God to ceaſe from Sin, for <hi>Peter</hi> ſaith, <hi>They that ſuffer in the Fleſh, ceaſe from Sin.</hi>
+            </p>
+            <p>And <hi>John Wiggins</hi> the Blaſphemer hath left behind him a Writing, though he be gone to his long home; yet, in his Book he ſaith, That Chriſt the Light, that lighteth every Man that comes into the World, is an <hi>Idol:</hi> Let the Reader read, <hi>Jo.</hi> 8. 12, 9. 5. And he ſaies in his Book, That Chriſts Blood was not ſhed for all; but <hi>John</hi> the <hi>Divine</hi> bears Witneſs againſt him, <hi>Jo. 1. 1. Rev.</hi> 19. 13. all theſe make againſt him, and yet this man went for a Miniſter of the Goſpel, but he hath left a ſtink behind him, and better had it been for him, That a Mil<g ref="char:EOLhyphen"/>ſtone had been hang'd about his neck and caſt into the Sea, than ever he ſhould have opened his mouth againſt the Saints in Light, or their Principle.</p>
+            <p>Come forth you <hi>Jeſuits</hi> and <hi>Papiſts,</hi> and <hi>Monkes,</hi> and <hi>Friers</hi> and <hi>Star gazers,</hi> and <hi>Monthly-Prognoſticators,</hi> and <hi>Aſtrologers</hi>
+               <pb n="6" facs="tcp:206845:4"/> and all the Devils <hi>Conjurers;</hi> will you not find a man to anſwer the <hi>Quaker:</hi> If you do find a Man, let him be known who he is, and for what God, and for what People; and let him ſend one to me, to ſee me perform my Challenge, and I ſhall ſend one to him, to ſee him perform his Anſwer: <hi>Or we will be ſhut up toge<g ref="char:EOLhyphen"/>ter in one Room.</hi>
+            </p>
+            <p>
+               <hi>Stand up Muggleton</hi> the <hi>Sorcerer,</hi> whoſe mouth is full of Curſing, Lies, and Blaſphemy; who callſt thy laſt Book a look<g ref="char:EOLhyphen"/>ing-glaſs for <hi>G. Fox,</hi> whoſe name thou art not worthy to take into thy mouth, who is a Prophet in deed, and hath been faithful in the Lords buſineſs from the beginning: It was ſaid of Chriſt, That he was in the World, and the World was made by him; and the World knew him not: So it may be ſaid of this true Prophet, whom <hi>John</hi> ſaid, he was not; but thou wilt feel this Prophet one day as heavy as a Milſtone upon thee; and al<g ref="char:EOLhyphen"/>though the World knows him not, yet he is known.</p>
+            <p>Thou ſaiſt in thy 84 <hi>page,</hi> of thy Pamphlet, that that Chriſt the <hi>Quakers</hi> are in: I that am but a man, have ſeperated their Chriſt from them; and one from another: This is fourteen years ago thou curſed them, and they are Bleſt for ever.</p>
+            <p>
+               <hi>An.</hi> Thoſe that went out from the Truth, were ſeparated from Chriſt, before they <hi>came to thee, and were never joyn'd to the Truth,</hi> nor owned of us, therefore ſuch may eaſily become thy Diſciples, <hi>being gone from God, his Truth, and his People;</hi> and given up to believe lies, and ſo they have found out <hi>Lodwick Muggleton</hi> the lying Prophet.</p>
+            <p>Thou ſaiſt, thou haſt Power over the <hi>Quakers,</hi> Chriſt within them, and that Judgment thou haſt given upon the <hi>Quakers,</hi> will ſurely come to paſs: Neither can you, nor your Chriſt within you, deliver you from it.</p>
+            <p>
+               <hi>An.</hi> Thou Fool, The <hi>Quakers</hi> Chriſt within them, <hi>Is the Corner-Stone which ſhall bruiſe thee to powder;</hi> neither ſhall any deliver thee out of his hand, who is the true Light, that lightens the <hi>Gentiles,</hi> and Gods Salvation to the end of the World: but thou haſt no ſhare in theſe ſayings.</p>
+            <p>Thou ſaiſt, The <hi>Quakers</hi> Principle within them, ſhall vaniſh like ſmoke.</p>
+            <p>
+               <hi>An.</hi> The <hi>Quakers</hi> Principle, will ſhake thy Foundation, and
+<pb n="7" facs="tcp:206845:4"/> all the Foundations of Men; it is the Foundation of many Generations, <hi>and can never be moved.</hi>
+            </p>
+            <p>Thou ſaiſt, When I am dead, many of the ſeed of the <hi>Ser<g ref="char:EOLhyphen"/>pent</hi> ſhall have regard to my Writings, <hi>page</hi> 61.</p>
+            <p>
+               <hi>An.</hi> Who ſhould elſe? For thou art a Meſſenger of the Old <hi>Serpent,</hi> therefore, needs muſt his Seed have regard to thy Writings.</p>
+            <p>But why doſt thou ſay, when I am dead? <hi>who is dead already unto God, but alive to Sin and Blaſphemy:</hi> but when thou art dead as thou ſaiſt, thou ſhalt be dead indeed to God, but alive to the Pain; by the Worm that ſhall never dye, and forever to be tormented: Neither ſhalt thou be able to ſhut out the ſence of the Torment, but the ſmoak of thy Torment ſhall aſcend for ever, and ever; and thy pain ſhall have no end, in the flame that cannot be quenched: And then thou ſhalt know, that thy Soul is Immortal and cannot Dye; and then thou ſhalt feel, what thou haſt done againſt God, his Truth, and his People; unto which place thou art haſtening. Now in the mean time, <hi>I Challeng thee, or any of thy Diſciples;</hi> and will maintain, that thou art an <hi>Epicure</hi> whoſe God is thy belly, and thy end ſhall be everlaſting Deſtruction from the preſence of God: <hi>The mouth of the Lord hath ſpoken it: and Repentance is hid from thy eyes.</hi> Though thou didſt tell me, that I was Damned, Body and Soul, to all Eternity; thy bleſſing and thy Curſe is all one to me: thou ſaiſt, That God is no biger than a Man; and yet <hi>Job</hi> ſaith, God is greater than Man, <hi>Job.</hi> 33. 12. And again, thou ſaiſt, That thy God is a Man, and had Arms, and Shoulders as I had; but according to <hi>Job</hi> I ſhall anſwer thee: That God is not a Man as I am, <hi>Job</hi> 9. 32. Now all may ſee, That <hi>Muggleton</hi> is a falſe Prophet: For, God himſelf ſaith, <hi>I am God and not Man the holy one in the midſt of thee,</hi> Hoſea 11. 9. And thou haſt often ſaid, <hi>That thy God is a God of Fleſh, Blood, and Bones.</hi> But Chriſt ſaith, <hi>God is a Spirit, and hath not Fleſh and Bones,</hi> John 4. 24. Cor, 2. 3, 17. Luke 24. 39.</p>
+            <p>
+               <hi>Come forth Robert Porter,</hi> thou ſhouldſt anſwer this Duel, for art not thou the cauſe of this quarrel, and hath opened the mouth of Gods enemies againſt the Truth and his People: but is not thy God thy Belly, as the reſt of thy lying Brethrens?
+<pb n="8" facs="tcp:206845:5"/> Come forth, 'tis but fourteen dayes, and if I fall by the way, then maiſt thou ſay, <hi>the Lord never ſent me.</hi>
+            </p>
+            <p>
+               <hi>Stand up all the Armies of the Beaſt, Papiſts, Jeſuits, Presbi<g ref="char:EOLhyphen"/>ters,</hi> and <hi>Baptiſts,</hi> and all the falſe Prophets of the Nation.</p>
+            <p>Come <hi>Glouceſter</hi> Profeſſors, to whom I writ a Challenge once, but none would anſwer me; come <hi>William Shepard</hi> the Lawyer, and <hi>Thomas Marriot;</hi> Come <hi>William Jordan</hi> the <hi>Presbiter,</hi> who ſaid, thou wouldſt faſt with me 39 dayes, and I could never get thee to faſt one. O ye <hi>Presbiters</hi> are horrible lyers, but this is my Councel to you all<g ref="char:punc">▪</g> you that have had a hand in ſpeaking againſt the <hi>Quakers</hi> Principles.</p>
+            <p>
+               <hi>Houle you Papiſts and Jeſuits,</hi> Houle houle; yea <hi>Presbiters</hi> houle; yea <hi>Baptists,</hi> for the Woes, Judgments, Plagues, and Torments, will aſſuredly come upon you, ſuddenly as a Woman in pain of travel, and you ſhall not eſcape, the mouth of the Lord hath ſpoken it. <hi>O, Woe will be to every one that hath ſpo<g ref="char:EOLhyphen"/>ken againſt the Light. and hath lifted Tongue, or Pen againſt the Lords Heritage.</hi> Well, ſhall it be with that Man that can ſay, God bethanked, <hi>I never ſpake againſt the Light, nor the Peo<g ref="char:EOLhyphen"/>ple that walk therein;</hi> yea, though they cannot be excuſed for other Sins; yet they ſhall be glad that they did not meddle with <hi>ſuch weighty things,</hi> but all they that have ſo done, ſhall weep bitterly, and gnaw their Tongues fot pain: Oh I ſay again, Repent ſpedily, before it be too late, that ever you lifted up a Tongue, or Hand, or Pen, againſt the Light of Jeſus Chriſt, which doth enlighten every man that comes into the World, or againſt his only People; for never did any thrive, that ſpake againſt the <hi>Quakers.</hi>
+            </p>
+            <closer>
+               <signed>I am a Friend to all the upright in Heart, and one who loves the appearance of Jeſus Christ; Who do write my Name Solomon Eccles.</signed>
+               <dateline>
+                  <date>The 17 of the Nineth Month, 1668.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:206845:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
